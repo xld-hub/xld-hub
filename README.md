@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=xld-hub&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=xld-hub)
 
 
 <!--
